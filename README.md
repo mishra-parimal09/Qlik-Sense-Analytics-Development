@@ -32,3 +32,13 @@ Implementation of the concepts mentioned below:
 5. Variance 
 6. Co-relation amongst the entities
 7. Charts  (Area, Line, Guage, Scatter, Combo, Bar, TreeMap)
+
+Part - 3
+
+Implementation of the concepts mentioned below:
+
+1. Challenge - Synthetic Key Handling
+2. Challenge - Circular Reference Handling
+3. Set Analysis 
+4. Additional field loads
+5. Drilldown filters
