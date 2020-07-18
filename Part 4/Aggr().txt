@@ -1,0 +1,11 @@
+sum(
+	aggr(
+    	  if(            
+              monthstart(min(Total <CustomerId,LocationId> RegistrationDate))=StartOfMonth,1,0
+             )            
+            ,CustomerId,LocationId,StartOfMonth
+         )
+          
+    )
+    
+    
