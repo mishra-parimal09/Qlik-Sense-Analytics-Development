@@ -42,3 +42,24 @@ Implementation of the concepts mentioned below:
 3. Set Analysis 
 4. Additional field loads
 5. Drilldown filters
+
+Part  - 4
+
+Implementation of the concepts mentioned below:
+
+1. Similar Data Structure Data Loads
+2. Discretization, Banding and Bucketization
+3. Resident Loads
+4. Lookup Function
+5. Maps
+6. Storytelling
+
+
+Part  - 5
+
+Implementation of the concepts mentioned below:
+
+1. Several Functions (RangeSum(), Above(), RowNo()) and their usage
+2. Pareto Analytics #important)
+
+
