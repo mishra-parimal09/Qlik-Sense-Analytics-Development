@@ -1,3 +1,6 @@
+
+All the content shared here are re-produced and inspired by the teachings of (c) Paul Scotchford - Awari Pty Ltd and his course on Udemy for Business.
+
 # Qlik-Sense-Analytics-Development
 Insights using Qlik Sense Desktop for optimizing the business processes.
 
