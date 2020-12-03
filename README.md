@@ -1,4 +1,5 @@
 
+
 All the content shared here are re-produced and inspired by the teachings of (c) Paul Scotchford - Awari Pty Ltd and his course on Udemy for Business.
 
 # Qlik-Sense-Analytics-Development
@@ -66,3 +67,4 @@ Implementation of the concepts mentioned below:
 2. Pareto Analytics #important)
 
 
+#Push from GitBash.
